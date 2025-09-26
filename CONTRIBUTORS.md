@@ -59,6 +59,7 @@ create a pull request.
 | Kuan, Liu-Hsiang | [senselessDog](https://github.com/senselessDog) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Ting, Fang-Kai | [qawl987](https://github.com/qawl987) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Lin, Cheng-Wei | [williamlin0518](https://github.com/williamlin0518) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Huang, Han-Xuan | [c1ydehhx](https://github.com/c1ydehhx) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
