@@ -81,6 +81,7 @@ create a pull request.
 | K N Venkata Sai | [Ic-venkat](https://github.com/Ic-venkat) | -- | N |
 | S.Uchino | [utchy-su](https://github.com/utchy-su) | SORACOM | N |
 | Lorenzo Cannella | [Giancannella](https://github.com/Giancannella) | Fondazione Ugo Bordoni (FUB) | N |
+| Su, Yin-Hsiang | [timsu92](https://github.com/timsu92) | National Yang Ming Chiao Tung University (NYCU) | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
