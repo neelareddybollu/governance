@@ -29,7 +29,7 @@ create a pull request.
 | Chen, Tsung-Fang | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Feng Tu | [Alonza0314](https://github.com/Alonza0314) | National Yang Ming Chiao Tung University (NYCU) | Y |
-| Meng Han Hsieh | [c9274326](https://github.com/c9274326) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Meng Han Hsieh | [d11nn](https://github.com/d11nn) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Yuan Chun Huang | [roundspring2003](https://github.com/roundspring2003) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Tim Liu | [tim-ywliu](https://github.com/tim-ywliu) | Saviah Technologies | Y |
 | Fu-Lian Weng | [turtle11311](https://github.com/turtle11311) | Saviah Technologies | Y |
